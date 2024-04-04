@@ -2,7 +2,7 @@
   "name": "whatsapp-bot (GURU-BOT)",
   "description": " Whatsapp bot.",
   "keywords": [
-    "whatsapp bot"
+  .
   ],
   "repository": "https://github.com/Guru322/GURU-BOT",
   "stack": "container",
@@ -13,7 +13,7 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "GuruBot~Cupg0DKP",
       "required": true,
       "value": ""
     },
@@ -39,7 +39,7 @@
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": True,
       "value": ""
     },
     "autoRead": {
